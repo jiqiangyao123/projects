@@ -1,0 +1,315 @@
+Tomar Ghansah: /share/dept_bbsr/Projects/Ghansah_Tomar/3070_USF_Nanostring_miRNA_2021
+
+        Ben: /share/dept_bbsr/Projects/Creelan_Ben/3423_Chan_CM153
+
+      Haura: /share/dept_bbsr/Projects/Haura_Eric/3254_Hitendra_TMT-16_AMG-Resistant
+
+      Lynch: /share/dept_bbsr/Projects/Lynch_Conor/3154_Ryan_ASAH_1_KD_Myeloma_2021
+
+    Gatenby: /share/dept_bbsr/Projects/Gatenby_Robert/3294_143_B_OS_RNAseq_2021
+
+  Robinson: /share/dept_bbsr/Projects/Robinson_Lary/3007_Microbiome_Lung_RNAseq_2021
+
+    Veglia: /share/dept_bbsr/Projects/Veglia_Filippo/3226_Trained_Macrophages_ATACseq_2021
+    Veglia: /share/dept_bbsr/Projects/Veglia_Filippo/3325_Brain_macrophages_ATACseq_2021
+    
+    Simmon: /share/dept_bbsr/Projects/Duckett_Derek/3089_SR_3029_2021
+
+   Yun-ABPP: /share/dept_bbsr/Projects/Yun_Seongseok/3180_AML_TFEB_ID_ABPP_2021
+
+Yun-chipseq: /share/dept_bbsr/Projects/Yun_Seongseok/3227_TFEB_KDM_6_B_AML_Ch_IPseq_2021
+
+ Fisherman: /share/NGS/work/projects/Fishman/CICPT_1558_nanostring/
+
+  Chip-seq: /home/yaoj/projects/cenl/chipseq
+
+Rounbehler_Robert: /share/dept_bbsr/Projects/Rounbehler_Robert/3266_SCORE_Ancestry_2021
+
+Elnaqa_Issam:/share/dept_bbsr/Projects/Elnaqa_Issam/3237_El_Naqa_MCC20750_Targeted_WES/work
+
+ Heidarian:  /share/dept_bbsr/Projects/Hernandez-Prera_Juan/3146_NGS_of_SGC_2021
+
+     Mehta:  /share/dept_bbsr/Projects/Mehta_Rutika/2793_Esophagus_Brain_Nanostring_2021
+
+  Elmariah:  /share/dept_bbsr/Projects/Elmariah_Hany/2274_BMT_PGx_2021
+
+ cleveland:  /share/dept_bbsr/Projects/Cleveland_John/2871_CD_4_Tcells_Bcell_RNAseq_2020/
+
+Pilon-Thomas_Shari: /share/dept_bbsr/Projects/Pilon-Thomas_Shari/2925_Pilon_T_MDSC_TIL_RNAseq_2020
+
+      cenl:  /home/yaoj/test/neoantigen/ver27/wdl
+     Brohl:  /share/dept_bbsr/Projects/Brohl_Andrew/2783_HEP3B-CRISPR759_2020   
+             /share/NGS/work/projects/Brohl_Andrew/CICPT_2783_RNAseq
+
+  Xiaoboli:  /share/dept_bbsr/Projects/Flores_Elsa/2773_LI_TROLL8_2020/work
+      Tsai:  /share/dept_bbsr/Projects/Tsai_Ken/2665_NANOSTRING_RAS_2020
+
+       Tan:  /share/dept_bbsr/Projects/Tan_AikChoon/2682_HNSCC_AVATAR_2020
+
+     Marco:  /share/dept_bbsr/Projects/Flores_Elsa/3036_TAp_63_vs_Np_63_2021
+     Marco:  /share/dept_bbsr/Projects/Flores_Elsa/2712_TAP63_RNA_EDITING_2020
+     Marco:  /share/dept_bbsr/Projects/Flores_Elsa/2667_CHIP_SEQ_MOUSE_LUNG_2020
+
+proj_config: /home/yaoj/projects/public_data/neoantigen/proj_conf
+
+    Coghill: /share/NGS/work/projects/Coghill_Anna/CICPT_2137HCO/neoantigen
+
+    Karreth: /share/NGS/work/projects/Karreth_Florian/CICPT1333/data
+
+   yonghong: /share/NGS/work/projects/Haura_Eric/CICPT_1699_WES/apps/run_qc.sh
+             /share/NGS/work/projects/Haura_Eric/CICPT_1699_WES/apps/scrpt_qc_pdf_report.r
+
+
+ Czerniecki: /share/dept_bbsr/Projects/Czerniecki_Brian/3083_Dendritic_Immuno_Tx_2021
+ Czerniecki: /share/dept_bbsr/Projects/Czerniecki_Brian/2923_Oncogene_Expression_2020
+ Czerniecki: /share/NGS/work/projects/Czerniecki_Brian/CICPT_2361_nanostring
+ Czerniecki: /share/data2/yaoj/Czerniecki/analysis/metabolism/compare
+
+     yumeng: /home/yaoj/projects/zhangyuemeng/analysis
+
+       chao: /share/NGS/work/projects/Antonia_Scott/CICPT_1162_SU2C/analysis/postanalysis
+
+       rsqc: /share/NGS/public/rsqc
+
+    Smalley: /share/NGS/work/projects/Smalley_Keiran/CICPT_1993_RNASeq2019
+
+     Davila: /share/NGS/work/projects/Davila_Marco/CICPT_1301_Davila_RNAseq_merge_2018/gsea
+
+ neoantigen: /home/yaoj/test/neoantigen
+ neoantigen: /share/NGS/work/projects/Yaoj/neoantigen/analysis
+
+       Ngoc: /home/yaoj/projects/ngoc/chipseq
+       Ngoc: /home/yaoj/yaoj/ngoc/analysis
+
+Davila_Jain_Locke:/share/NGS/work/projects/Davila_Jain_Locke/
+
+       Nair: /share/NGS/work/projects/Nair/CICPT_1769
+
+    Messina: /share/NGS/work/projects/Messina_Jane/Messina_CICPT_1767/data/original
+    Messina: /share/NGS/work/projects/Messina_CICPT_1767/data/original
+
+     Wright: /share/NGS/work/projects/Wright_Kenneth/Wright_CICPT_1710_RNASeq
+
+   Monteiro: /share/NGS/work/projects/Monteiro_Alvaro/CICPT_1793_Monteiro_ChIPseq
+   Monteiro: /share/NGS/work/projects/Monteiro_Alvaro/CICPT_1424_Monteiro_BROCA
+
+    Gatenby: /share/NGS/work/projects/Gatenby_Bob/CICPT_1529_RNAseq_2018
+   Kimberly: /share/NGS/work/projects/Gatenby_Bob/CICPT_1529_RNAseq_2018
+
+      Chung: /share/orien_data/work/data_delivery/Chung_v0.3/WES_germline/
+      Chung: /share/orien_data/work/releases/v0.2/README 
+
+     mcleod: /home/yaoj/projects/mcleod/james/2018/data
+      Kevin: /home/yaoj/projects/mcleod/james/2018/data
+
+
+    sallman: /home/yaoj/projects/sallman/analysis
+
+    ericlau: /home/yaoj/projects/ericlelau/analysis
+
+      kiran: /share/NGS/work/projects/Mahajan_Kiran/CICPT1498_Kiran_Chipseq
+      kiran: /home/yaoj/yaoj/christine/kraken
+      kiran: /share/NGS/public/ngs_resource/genome_reference/kraken_db/kraken_db_hs
+
+     kraken: /share/NGS/work/projects/PierceCampbell_christine/mWGS_2017/kraken
+
+     Davila: /share/NGS/work/projects/Davila_Marco/CICPT_1301_Davila_RNAseq_Jul_2018/rawdata
+
+      scott: /home/yaoj/projects/scott/nupam
+      scott: https://gitlab.moffitt.usf.edu:8000/cukrassd/com.cic.autopipeline
+
+      nupam: (Chip-seq) /share/NGS/work/projects/Mahajan_Nupam/CICPT_1506_Nupam_ChIPseq
+      nupam: (RNA-seq) /share/NGS/work/projects/Mahajan_Nupam/CICPT1508_Nupam_RNAseq
+
+      shari: /share/NGS/work/projects/Poch_Michael/CICPT_2236_Poch_Hajiran_Orien_bladder_neoAntigen
+      shari: /share/NGS/work/projects/Pilon-Thomas_Shari/CICPT_1539_WES_neoantigen
+      shari: /share/NGS/work/projects/Pilon-Thomas_Shari/CICPT_1287_WES_neoantigen/raw_data/
+
+      jamie: /share/NGS/work/projects/Antonia_Scott/CICPT_1162_SU2C
+
+      Locke: /share/NGS/work/projects/Locke_Fred/MM20170412
+
+      yinli: /scratch/yaoj3/igseq/wrk
+
+   xiaoqing: /share/NGS/work/projects/HLA_test/HLA_testing_Fred
+
+gillies_bob: /home/yaoj/yaoj/Gillies_Bob/yao
+
+Sungjunekim: /share/NGS/work/projects/Kim_Sungjune/Tcell_mouse_2017a
+
+***************************************************************************************************
+***************************************************************************************************
+***************************************************************************************************
+***************************************************************************************************
+***************************************************************************************************
+***************************************************************************************************
+***************************************************************************************************
+***************************************************************************************************
+***************************************************************************************************
+***************************************************************************************************
+***************************************************************************************************
+***************************************************************************************************
+***************************************************************************************************
+C:\local\people\moffitt\monteiro\11-04-2016\contamination\unmapped_report
+
+/share/data2/yaoj/monteiro/starrseq/analysis/map/debug/hg19/unmap
+
+/share/NGS/work/projects/Locke_Fred/2016_MM_neoantigen_pilot/DNA/
+
+***************************************************************************************************
+***************************************************************************************************
+***************************************************************************************************
+
+nupam: /share/data2/NGS/yaoj/mahajan
+
+***************************************************************************************************
+
+RSI: /home/yaoj/yaoj/javier/analysis
+***************************************************************************************************
+
+
+locke: /share/NGS/work/projects/Locke_Fred/MM20170412
+***************************************************************************************************
+
+richard: /home/yaoj/yaoj/richard  (C:\local\people\moffitt\BIO2\Richard)
+***************************************************************************************************
+
+jamie: /share/NGS/work/projects/Torres_Roca_Javier/Torres_Roca_TGS_2014/_jiqiangwork
+***************************************************************************************************
+
+christine: /share/data2/yaoj/christine/analysis/pickotu/attempt6
+
+module load anaconda/2
+
+source activate qiime191conda
+
+source deactivate qiime191conda
+
+***************************************************************************************************
+
+douglas:
+/home/yaoj/yaoj/douglas/analysis/attempt7_task_d
+C:\Users\yaoj\oncoscan01\Samples\01
+/share/data2/yaoj/douglas/analysis/attemp2
+
+***************************************************************************************************
+kiran:
+/share/data2/yaoj/mahajan/data/GSE21034
+
+***************************************************************************************************
+
+Chia-Ho:/share/data2/chengc/Janice.Monteiro
+
+
+Anthony:
+/share/data2/yaoj/anthony/liposarcoma/analysis/valid/TCGA/sigene/QC
+
+***************************************************************************************************
+
+Jamie:
+C:\local\people\moffitt\monteiro\11-04-2016\contamination\unmapped_report
+/share/data2/yaoj/monteiro/starrseq/analysis/map/debug/hg19/unmap
+
+/share/NGS/work/projects/Locke_Fred/2016_MM_neoantigen_pilot/DNA/
+
+***************************************************************************************************
+
+genomecore:
+/share/data2/yaoj/genomecore/merck
+
+***************************************************************************************************
+Ritin:
+
+/home/yaoj/yaoj/ritin
+
+***************************************************************************************************
+
+shopt | grep checkwinsize
+
+If you don't get: checkwinsize on
+
+then activate it with:shopt -s checkwinsize
+
+***************************************************************************************************
+Davila:
+
+/share/NGS/work/projects/Davila_Marco/RNASeq151230/
+design: /share/NGS/work/projects/Davila_Marco/RNASeq151230/sample.detail
+
+Jamie:
+/share/NGS/work/projects/Locke_Fred/2016_MM_neoantigen_pilot/RNA/htseqCounts
+C:\local\people\moffitt\Jamie\12-16-2015
+/home/yaoj/yaoj/jamie/QC2
+
+***************************************************************************************************
+
+Anders:
+
+C:\local\people\moffitt\Anders\2015\12-Dec\12-05-2015
+/share/NGS/work/projects/Weber_Jeffery/Ramakrishnan_Rupal2015RNASeq/jiqiangyao/data/qc
+
+***************************************************************************************************
+David:
+/share/data2/yaoj/David/chipseq/2014/analysis/peak/CD4/macs2/q_0.01/nonresponder/01_i81/01NSP
+***************************************************************************************************
+
+Rupal1:
+/share/WashU/work/weber_bms_trial/work/jiqiang/2016/analysis
+
+***************************************************************************************************
+Han:
+
+/share/WashU/work/weber_bms_trial/original/xfer.genome.wustl.edu/gxfer1/changhan/attempt2/missing
+***************************************************************************************************
+
+yinli
+
+sftp://sftp.rc.ufl.edu
+
+liyin Aini_2017
+
+cd /ufrc/yin/liyin/igseq/run/wrk
+
+ijbcb_server: ssh liyin@hpg2.rc.ufl.edu
+
+C:\local\people\UF\yinli\2015\11-Nov\11-05-2015
+/scratch/lfs/liyin/igseq/run/wrk
+
+
+$ ml add ufrc
+$ slurm_info ufgi
+$scontrol update job 2573094 QOS=ufgi-b
+
+***************************************************************************************************
+
+mou
+
+E:\Gainesville\people\NoICBR\mou\2015\09-Sep\2015-11-06
+C:\local\people\UF\zhonglin\2016-02-15
+
+/bio/icbr/jiqiang/projects/mou/project3b/ler
+
+***************************************************************************************************
+
+
+ijbcb:
+/home3/ijbcborg/www/HPV/upload/fvargas_at_psm.edu
+
+***************************************************************************************************
+
+
+R plot:
+http://blog.datacamp.com/15-questions-about-r-plots/
+
+***************************************************************************************************
+
+
+Project Tracker: (CICPT) http://cicpt/users/39/projectsChart
+
+Time tracker:    (LIMS)  http://lims/sapphire/logon.jsp
+
+
+***************************************************************************************************
+
+lims:  http://lims/sapphire/logon.jsp
+cicpt: https://cicpt/
